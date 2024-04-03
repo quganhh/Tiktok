@@ -1,0 +1,92 @@
+.rate {
+    display: flex !important ;
+    flex-direction: row !important ;
+    align-items: center !important;
+}
+.link {
+    padding: 12px !important;
+    font-size: 13px !important;
+    cursor: pointer !important;
+    color: #136cff !important;
+}
+.brand {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+}
+.price {
+    margin-top: 5px !important;
+}
+.pricetext1 {
+    font-size: 35px !important;
+    color: #f57224 !important;
+}
+.pricetext2 {
+    text-decoration: line-through !important;
+}
+.promo {
+    font-size: 15px !important;
+}
+.promotext1 {
+    font-size: 14px !important;
+    color: #fff !important;
+    background-color: #f57224 !important;
+    margin-top: 1px !important;
+    width: 320px !important;
+}
+.promotext2 {
+    font-size: 14px !important;
+    color: #fff !important;
+    background-color: #f57224 !important;
+    margin-top: 1px !important;
+    width: 170px !important;
+}
+.stored {
+    border-radius: 8px !important;
+    border: '1px solid black' !important;
+    margin-left: 10px !important;
+}
+.paylater {
+    font-size: 15px !important;
+}
+.paylatertext {
+    font-size: 14px !important;
+}
+.iconcalender {
+    font-size: 16px !important;
+}
+.categoriesText1 {
+    font-size: 15px !important;
+    margin-top: 25px !important;
+}
+.categoriesText {
+    font-size: 15px !important;
+}
+.buttoncount {
+    background-color: rgb(255, 255, 255) !important;
+    color: #000 !important;
+    margin-left: 12px !important;
+}
+.button1 {
+    background-color: #ffb916 !important;
+    color: white !important;
+    width: 200px !important;
+    height: 40px !important;
+    transition: opacity 0.3s ease !important;
+}
+.button1:hover {
+    opacity: 1 !important;
+    background-color: #ebad1a !important;
+}
+.button2 {
+    background-color: #f57224 !important;
+    color: white !important;
+    width: 200px !important;
+    height: 40px !important;
+    transition: opacity 0.3s ease !important;
+}
+
+.button2:hover {
+    opacity: 1 !important;
+    background-color: #e56a22 !important;
+}

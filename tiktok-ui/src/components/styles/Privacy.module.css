@@ -1,0 +1,23 @@
+.headingtext {
+    font-size: 12px !important;
+    font-weight: bold !important;
+    margin-top: 2;
+}
+.table {
+    padding-right: 10px !important;
+    border-right: 1px solid #ccc !important;
+}
+.rate {
+    font-size: 10px !important;
+}
+.percent {
+    font-weight: bold !important;
+    margin-top: 15px !important;
+    font-size: 20px !important;
+}
+.boxlink {
+    padding: 20px !important;
+}
+.link {
+    font-weight: bold !important;
+}

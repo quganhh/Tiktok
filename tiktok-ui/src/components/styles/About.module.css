@@ -1,0 +1,18 @@
+.mediaimg {
+    width: '100%' !important;
+    height: 'auto' !important;
+    border-radius: '8px' !important;
+}
+.blurcontainer {
+    position: relative !important;
+}
+.bluroverlay {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    backdrop-filter: blur(10px) !important;
+    clip-path: polygon(0 100%, 0 50%, 100% 50%, 100% 100%) !important;
+    background-color: rgba(255, 255, 255, 0.076) !important;
+}
